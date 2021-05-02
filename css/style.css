@@ -60,10 +60,19 @@ a{
     transform: scale(1.3);
     transition: ease-in-out 0.5s;
 }
-footer{
+.footer{
     width: 100%;
-    position: fixed;
-    bottom:0;
+  
+  
+    
 }
+.footer-1{
+    width: 100%;
+  position: fixed;
+  bottom: 0;
+  
+    
+}
+
 
 
