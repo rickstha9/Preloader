@@ -6,12 +6,12 @@
 
 setTimeout(function(){
 $('#overlayer').fadeToggle();
-},3600);
+},4000);
 
 setTimeout(function(){
   $('.elegent').fadeToggle();
-  },900);
+  },1500);
 
   setTimeout(function(){
     $('.you').fadeToggle();
-    },2000);
+    },2500);
