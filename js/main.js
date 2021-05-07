@@ -10,7 +10,7 @@ setTimeout(function(){
 
 setTimeout(function(){
   $('.elegant').fadeToggle();
-  },4000);
+  },3000);
 
   setTimeout(function(){
     $('.you').fadeToggle();
