@@ -5,13 +5,17 @@
 // }
 
 setTimeout(function(){
-$('#overlayer').fadeToggle();
-},4000);
+  $('#overlayer').fadeToggle();
+  },7500);
 
 setTimeout(function(){
-  $('.elegent').fadeToggle();
-  },1500);
+  $('.elegant').fadeToggle();
+  },4000);
 
   setTimeout(function(){
     $('.you').fadeToggle();
-    },2500);
+    },7500);
+
+    setTimeout(function(){
+      $('.sexy').fadeToggle();
+      },5000);
