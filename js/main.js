@@ -6,16 +6,5 @@
 
 setTimeout(function(){
   $('#overlayer').fadeToggle();
-  },7500);
+  },12000);
 
-setTimeout(function(){
-  $('.elegant').fadeToggle();
-  },3000);
-
-  setTimeout(function(){
-    $('.you').fadeToggle();
-    },7500);
-
-    setTimeout(function(){
-      $('.sexy').fadeToggle();
-      },5000);
